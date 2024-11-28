@@ -1,0 +1,2 @@
+# ConvenientSpectrum
+Easier Spectrum Play
