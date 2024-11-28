@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "super_heated",
+  "ingredients": [
+    {
+      "item": "spectrum:stratine_fragments",
+      "count":8
+    },
+    {
+      "item": "minecraft:fermentation_spider_eye"
+    },
+    {
+      "item":"minecraft:end_stone"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "spectrum:paltaeria_ore"
+    }
+  ]
+}
