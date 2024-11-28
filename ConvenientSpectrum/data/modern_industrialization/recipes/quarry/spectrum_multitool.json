@@ -1,0 +1,22 @@
+{
+    "type": "modern_industrialization:quarry",
+    "eu": 4,
+    "duration": 480,
+    "item_inputs": {
+      "item": "spectrum:multitool",
+      "amount": 1,
+      "probability": 0.04
+    },
+    "item_outputs": [
+      {
+        "item": "spectrum:shimmerstone_ore",
+        "amount": 4,
+        "probability": 0.8
+      },
+      {
+        "item": "spectrum:azurite_ore",
+        "amount": 2,
+        "probability": 0.04
+      }
+    ]
+  }
