@@ -1,0 +1,9 @@
+{
+  "type": "spectrum:ink_converting",
+  "ingredient": {
+    "item": "ae2:purple_paint_ball"
+  },
+  "ink_color": "spectrum:purple",
+  "amount": 100,
+  "required_advancement": "spectrum:hidden/collect_pigment/purple"
+}

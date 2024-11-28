@@ -1,16 +1,18 @@
 {
   "type": "create:mixing",
-  "heatRequirement": "super_heated",
+  "heatRequirement": "superheated",
   "ingredients": [
     {
-      "item": "spectrum:stratine_fragments",
-      "count":8
+      "item":"spectrum:stratine_fragments"
     },
     {
-      "item": "minecraft:fermentation_spider_eye"
+      "item": "spectrum:stratine_gem"
     },
     {
-      "item":"minecraft:end_stone"
+      "item": "minecraft:fermented_spider_eye"
+    },
+    {
+      "item": "minecraft:end_stone"
     }
   ],
   "results": [

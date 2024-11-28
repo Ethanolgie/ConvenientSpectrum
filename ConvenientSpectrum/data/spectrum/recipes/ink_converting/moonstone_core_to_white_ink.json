@@ -1,0 +1,9 @@
+{
+    "type": "spectrum:ink_converting",
+    "ingredient": {
+      "item": "spectrum:moonstone_core"
+    },
+    "ink_color": "spectrum:white",
+    "amount": 16000,
+    "required_advancement": "spectrum:lategame/spectrum_lategame"
+  }
